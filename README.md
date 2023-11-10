@@ -1,1 +1,1 @@
-# Implementaci-n-modelo-deep-learning
+# Implementación de un modelo de deep learning
