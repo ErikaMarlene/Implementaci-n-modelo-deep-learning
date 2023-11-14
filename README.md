@@ -1,3 +1,3 @@
 # Implementación de un modelo de deep learning
 Se encuentra un archivo .ipynb que contiene el código para la creación de 2 modelos CNN (Convolutional Neural Network). Decidí usar un dataset de kaggle con imágenes de 525 diferentes especies de aves. Los modelos que implemente son para la clasificación correcta de las especies a través de imágenes. La principal problemática que se me presentó fue el tiempo ya que al inicio use un batch_size demasiado pequeño que provocó que el entrenamiento del modelo durara horas! La segunda problemática fue que después aumenté demasiado dicho batch y ahora me acabe la RAM del sistema :( No cabe duda que la creación de modelos necesita demasiadas pruebas con diferentes capas y parámetros.
-https://colab.research.google.com/drive/1JucPIXzHPBQc6FOEyUFPAP5g_RruJyuT?usp=sharing
+https://colab.research.google.com/drive/1dJfsUTGJvednQZ3MUmkEGF36oB1ZRg5W?usp=sharing
